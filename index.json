@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-rerunfailures",
+  "versions": [
+    {
+      "commit": "01fd226bd533ecd7f6aabe7c155c4ca7bcd8598c",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:10:17.221994+00:00"
+    }
+  ]
+}
