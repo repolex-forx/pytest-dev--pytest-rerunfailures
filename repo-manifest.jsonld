@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-rerunfailures/commit/01fd226bd533ecd7f6aabe7c155c4ca7bcd8598c",
       "git:hexsha": "01fd226bd533ecd7f6aabe7c155c4ca7bcd8598c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-rerunfailures/commit/417670e89e0f05919e2c3cc0bda7386dcc7210f7",
